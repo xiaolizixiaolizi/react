@@ -6,7 +6,9 @@ class News extends Component {
   }
   render() {
     return (
-      <div>111</div>
+      <div>
+        <h2>1111222</h2>
+      </div>
     );
   }
 }
